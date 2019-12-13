@@ -1,0 +1,157 @@
+print ("EJERCICIO 1")
+#     0123456789012345678901
+msg1="INGENIERIA ELECTRONICA"
+
+#longitud
+print(len("INGENIERIA"))
+print(len("ELECTRONICA"))
+
+print ("EJERCICIO 2")
+#     012345678901234567890123456789012345678901234567
+msg2="FELIZ NAVIDAD PARA TODOS Y UN PROSPERO ANO NUEVO"
+
+#longitud
+print(len("FELIZ"))
+print(len("NAVIDAD"))
+print(len("PARA"))
+print(len("TODOS"))
+print(len("UN"))
+print(len("PROSPERO"))
+print(len("ANO"))
+print(len("NUEVO"))
+
+print ("EJERCICIO 3")
+#     0123456789012345678901234567890
+msg3="FERRENAFE TIERRA DE LA DOBLE FE"
+
+#longitud
+print(len("FERRENAFE"))
+print(len("TIERRA"))
+print(len("DOBLE"))
+print(len("FE"))
+
+print ("EJERCICIO 4")
+#     01234567890123456789012
+msg4="RUMBO AL LICENCIAMIENTO"
+
+#longitud
+print(len("RUMBO"))
+print(len("LICENCIAMIENTO"))
+
+print ("EJERCICIO 5")
+#     012345678901234567890123456789012345678890123456789012345678
+msg5="PREPARATE CON NOSOTROS AQUI ENCONTRARAS EDUCACION DE CALIDAD"
+
+#longitud
+print(len("PREPARATE"))
+print(len("NOSOTROS"))
+print(len("ENCONTRARAS"))
+print(len("EDUCACION"))
+print(len("CALIDAD"))
+
+print ("EJERCICIO 6")
+#     0123456789012345678901234567890123456789012345678901234
+msg6="VIVA LA PATRIA, VIVA LA LIBERTAD, VIVA LA INDEPENDENCIA"
+
+#longitud
+print(len("VIVA"))
+print(len("PATRIA"))
+print(len("LIBERTAD"))
+print(len("INDEPENDENCIA"))
+
+print ("EJERCICIO 7")
+#     01234567890123456789012345678901234567890123456
+msg7="SOMOS FELICES CADA VEZ QUE TU ALCANZAS EL EXITO"
+
+#longitud
+print(len("SOMOS"))
+print(len("FELICES"))
+print(len("ALCANZAS"))
+print(len("EXITO"))
+
+print ("EJERCICIO 8")
+#     012345678901234567890
+msg8="COMEDOR UNIVERSITARIO"
+
+#longitud
+print(len("COMEDOR"))
+print(len("UNIVERSITARIO"))
+
+print ("EJERCICIO 9")
+#     012345678901234567890
+msg9="FERNANDO DIAZ SANCHEZ"
+
+#longitud
+print(len("FERNANDO"))
+print(len("DIAZ"))
+print(len("SANCHEZ"))
+
+print ("EJERCICIO 10")
+#      012345678901234567890123456789012345678901
+msg10="FACULTAD DE CIENCIAS FISICAS Y MATEMATICAS"
+
+#longitud
+print(len("FACULTAD"))
+print(len("CIENCIAS"))
+print(len("FISICAS"))
+print(len("MATEMATICAS"))
+
+print ("EJERCICIO 11")
+#      01234567890123456789012345678901234567890123456789
+msg11="EL QUE DE AMIGOS CARECE ES PORQUE NO SE LOS MERECE"
+
+#longitud
+print(len("AMIGOS"))
+print(len("CARECE"))
+print(len("PORQUE"))
+print(len("MERECE"))
+
+print ("EJERCICIO 12")
+#      012345678901234567890123456789012345678890
+msg12="HAY GOLPES EN LA VIDA TAN FUERTES YO NO SE"
+
+#longitud
+print(len("HAY"))
+print(len("GOLPES"))
+print(len("VIDA"))
+print(len("FUERTES"))
+
+print ("EJERCICIO 13")
+#      012345678901234567890123
+msg13="HOY POR TI MAÑANA POR MI"
+
+#longitud
+print(len("HOY"))
+print(len("MAÑANA"))
+print(len("MI"))
+
+print ("EJERCICIO 14")
+#      01234567890123456789012345678901234567890123
+msg14="MAS VALE MALO CONOCIDO QUE BUENO POR CONOCER"
+
+#longitud
+print(len("MAS"))
+print(len("VALE"))
+print(len("MALO"))
+print(len("CONOCIDO"))
+print(len("QUE"))
+print(len("BUENO"))
+print(len("POR"))
+print(len("CONOCER"))
+
+
+print ("EJERCICIO 15")
+#      012345678901234567890123456789012345678901234567890123456789012345678901234567890123
+msg15="NUNCA SABES LO FUERTE QUE ERES, HASTA QUE SER FUERTE ES LA UNICA OPCIÓN QUE TE QUEDA"
+
+#longitud
+print(len("NUNCA"))
+print(len("SABES"))
+print(len("LO"))
+print(len("FUERTE"))
+print(len("QUE"))
+print(len("ERES"))
+print(len("HASTA"))
+print(len("UNICA"))
+print(len("OPCION"))
+print(len("QUEDA"))
